@@ -1,0 +1,15 @@
+html{
+    background-color: lightskyblue;
+}
+.legal{
+    padding:50px;
+    height: 100%;
+    margin: auto;
+    width: 50%;
+    font-family: monospace;
+    font-size: 20px;
+    border-radius: 2%;
+    border-color: black;
+    border-style: solid;
+    
+}
